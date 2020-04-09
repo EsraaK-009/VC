@@ -21,12 +21,11 @@ A Vacuum Cleaner project using pic.
 ### Firing:
 
 <br>In firing we have 3 cases, Soft Switching up, Soft switching down and Harmonic reduce.
-(Recommended to read     to undersand the firing better.)
+(Recommended to read "AN10496 Vacuum cleaner" DOC to undersand the firing better.)
 
 Harmonic reduce Output:
 
-![TRIAC OUTPUT](https://drive.google.com/file/d/1UXj-5GuXd0rehH1beHdQ25US4NIyCQrA/view?usp=sharing)
-<br />
+<a href="https://ibb.co/tpyr4n9"><img src="https://i.ibb.co/tpyr4n9/Te.png" alt="Te" border="0"></a>
 
 ### LEDD:
 <br>Using switch 3 to simulate the bag is filled, if pressed more than 30 seconds:
