@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1586464936 source:c:\users\trast\desktop\vaccleaner\display.c
+	"main.h"
+	"display.h"
+	"VC.h"
+	"SSD.h"
+	"OS.h"
+
+1586406409 c:\users\trast\desktop\vaccleaner\main.h
+	<pic16f877a.h>
+
+1586464698 c:\users\trast\desktop\vaccleaner\port.h
+	"main.h"
+
+1586414091 c:\users\trast\desktop\vaccleaner\os.h
+	"main.h"
+
+1586074507 c:\users\trast\desktop\vaccleaner\display.h
+
+1586467325 c:\users\trast\desktop\vaccleaner\vc.h
+
+1586415835 c:\users\trast\desktop\vaccleaner\ssd.h
+
+1586401600 source:c:\users\trast\desktop\vaccleaner\ledd.c
+	"main.h"
+	"port.h"
+	"LedD.h"
+
+1586412808 source:c:\users\trast\desktop\vaccleaner\main.c
+	"main.h"
+	"SW.h"
+	"OS.h"
+	"display.h"
+	"SSD.h"
+	"VC.h"
+
+1586415596 source:c:\users\trast\desktop\vaccleaner\firetimer.c
+	"main.h"
+	"port.h"
+	"motor.h"
+
+1586469916 c:\users\trast\desktop\vaccleaner\motor.h
+
+1586403105 c:\users\trast\desktop\vaccleaner\sw.h
+
+1586416707 source:c:\users\trast\desktop\vaccleaner\motor.c
+	"main.h"
+	"port.h"
+	"OS.h"
+	"VC.h"
+	"motor.h"
+
+1586457550 source:c:\users\trast\desktop\vaccleaner\os.c
+	"main.h"
+	"port.h"
+	"SW.h"
+	"motor.h"
+	"display.h"
+	"SSD.h"
+	"FireTimer.h"
+	"VC.h"
+
+1586415599 c:\users\trast\desktop\vaccleaner\firetimer.h
+	"main.h"
+
+1586416853 source:c:\users\trast\desktop\vaccleaner\ssd.c
+	"port.h"
+	"OS.h"
+	"SSD.h"
+
+1586403101 source:c:\users\trast\desktop\vaccleaner\sw.c
+	"port.h"
+	"OS.h"
+	"SW.h"
+
+1586400090 c:\users\trast\desktop\vaccleaner\ledd.h
+
+1586469103 source:c:\users\trast\desktop\vaccleaner\vc.c
+	"main.h"
+	"port.h"
+	"OS.h"
+	"SW.h"
+	"VC.h"
+	"display.h"
+	"motor.h"
+	"LedD.h"
+
